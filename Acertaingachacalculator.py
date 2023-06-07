@@ -2,7 +2,7 @@ import datetime
 import streamlit as st
 
 
-st.set_page_config(layout="centered", page_title="A certain gacha calculator", page_icon="https://img.game8.co/3316382/66059bcd59dcf0666c66bf1b5902dc2b.png/show")
+st.set_page_config(layout="centered", page_title="Acertaingachacalculator", page_icon="https://img.game8.co/3316382/66059bcd59dcf0666c66bf1b5902dc2b.png/show")
 
 
 
